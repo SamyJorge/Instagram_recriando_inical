@@ -70,7 +70,6 @@ da pagina. Esse abrigara todas as outras DIVs do layout */
 
 .instagram-logo {
     height: 3rem;
-    margin-top: 1rem;
 }
 
 .profile-photo {
@@ -79,6 +78,7 @@ da pagina. Esse abrigara todas as outras DIVs do layout */
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    margin: 1rem;
 }
 
 .profile-photo img {
